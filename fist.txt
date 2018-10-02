@@ -1,2 +1,5 @@
-this is a first file i have created in in branch "******Feat1*******"
+this is a first file i have created in in branch "******Feat1*******<<<<<<< HEAD
 this is for testing for the branch of "master"
+=======
+we are testing branch merge, this was added in feat1 branch
+>>>>>>> feat1
