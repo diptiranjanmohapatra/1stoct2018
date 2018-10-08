@@ -1,4 +1,0 @@
-this file has been created to merge two branches with mergetool.
-this time file has been modified in branch "feater1".
-this time file has been modified on branch "feater2"
-
